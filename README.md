@@ -25,7 +25,7 @@ the internship program.
 | Esha Tul Razia | Test Planning |
 | Fizza Fatima & Rida Khan | Functional + Responsive Testing |
 | Iqra Karim Shaikh | Broken Links & SEO Audit |
-| Esha Kamal | UI/UX Testing |
+| Eshal Kamal | UI/UX Testing |
 
 ## ✅ Testing Summary
 - Device & Browser Compatibility —
